@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site: []
+- Live Site: [3-column preview card](https://biniyammelaku2.github.io/3-column-preview-card/index.html)
 
 ### Built with
 
